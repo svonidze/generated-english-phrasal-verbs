@@ -5030,13 +5030,16 @@
     "examples" : [ "Can someone collect up the dirty cups?" ],
     "frequency" : 0
   },
-  "colour (color) up" : {
-    "descriptions" : [ "blush" ]
+  "color up" : {
+    "descriptions" : [ "if you colour up, your face becomes red" ],
+    "examples" : [ "He kissed Mary on the cheek, and she coloured up instantly." ],
+    "synonyms" : [ "blush", "colour up" ]
   },
   "colour up" : {
     "derivatives" : [ "colours up", "colouring up", "coloured up" ],
     "descriptions" : [ "if you colour up, your face becomes red" ],
-    "examples" : [ "He kissed Mary on the cheek, and she coloured up instantly." ]
+    "examples" : [ "He kissed Mary on the cheek, and she coloured up instantly." ],
+    "synonyms" : [ "blush", "colour up" ]
   },
   "comb out" : {
     "derivatives" : [ "combs out", "combing out", "combed out" ],
@@ -21600,9 +21603,6 @@
         "взять себя в руки" : [ ]
       }
     }
-  },
-  "pump (money) into" : {
-    "descriptions" : [ "invest in something" ]
   },
   "pump in" : {
     "derivatives" : [ "pump into", "pumps into", "pumping into", "pumped into" ],
